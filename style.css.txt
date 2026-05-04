@@ -1,0 +1,13 @@
+body {
+  background: #121212;
+  color: white;
+  font-family: Arial;
+  text-align: center;
+}
+
+textarea {
+  width: 80%;
+  height: 100px;
+  background: #1e1e1e;
+  color: white;
+}
